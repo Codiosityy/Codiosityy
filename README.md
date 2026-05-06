@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codiosityy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codiosityy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codiosityy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codiosityy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
 </div>
 
 ---
@@ -89,7 +89,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codiosityy&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph">
+  <img src="https://acti-graph.vercel.app/graph?username=Codiosityy&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph">
 </p>
 
 ---
