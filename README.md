@@ -89,7 +89,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://acti-graph.vercel.app/graph?username=Codiosityy&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codiosityy&bg_color=1a1b26&color=8b5cf6&line=8b5cf6&point=8b5cf6&hide_border=true&area=true" alt="Activity Graph">
 </p>
 
 ---
