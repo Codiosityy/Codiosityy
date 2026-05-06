@@ -120,9 +120,9 @@ OpenEnv environment for deterministic vendor onboarding and compliance review wo
 
 ---
 
-### [QuarryFlow-Crossing](https://github.com/Codiosityy/QuarryFlow-Crossing)
+### [QuarryFlow-Crossing](https://github.com/Codiosityy/QuarryFlow-Crossing) — *2nd Place (Delhi University)*
 
-Logic-driven system solving structured crossing problems under constraints. Built for hackathon environment with focus on algorithmic correctness and efficiency.
+Logic-driven system solving structured crossing problems under constraints. Built for hackathon environment with focus on algorithmic correctness and efficiency. Placed 2nd at Delhi University's KnowledgeQuarry.
 
 **Stack:** Python, Algorithm Design
 
