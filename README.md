@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Prakash Singh
+# 👋 Hey, I'm Prakash Singh
 
-**Building production-ready AI systems and developer tools** 🔬
+**Hackathon-winning developer building real AI systems** ⚡
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Codiosityy&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views">
@@ -9,7 +9,17 @@
 
 ---
 
-## 🔧 Skills & Tech Stack
+## 🏆 Achievements
+
+| Hackathon | Placement |
+|---|---|
+| VisualSim (Mirabilis Design) | 🥇 1st Place |
+| KnowledgeQuarry (Delhi University) | 🥈 2nd Place |
+| DeepTech (IESA) | 🏅 Grand Finalist |
+
+---
+
+## 🛠️ Skills & Tech Stack
 
 ### Programming Languages
 <div align="center">
@@ -64,6 +74,16 @@
   <img src="https://img.shields.io/badge/Nextcloud-0462D1?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud">
 </div>
 
+### Data & Config
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" alt="XML">
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
+  <img src="https://img.shields.io/badge/Markdown-083FA1?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/TOML-9C4121?style=for-the-badge" alt="TOML">
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -77,25 +97,37 @@
 
 ## 🚀 Featured Projects
 
-### [Forsaken-Apex](https://github.com/Codiosityy/Forsaken-Apex) ⭐
-> Production-ready deep learning system for **semiconductor wafer defect detection**
+### [Forsaken-Apex](https://github.com/Codiosityy/Forsaken-Apex) ⭐ — *DeepTech Grand Finalist*
+> My semiconductor defect detection system — what got me to the IESA DeepTech finals
 
-- 🔬 MobileNetV2 + SE Attention for defect classification
-- 📈 Progressive curriculum training (128→160→224px)
-- 🧪 5-test validation suite for rigorous model evaluation
+- Built a MobileNetV2 + SE Attention CNN pipeline classifying 8 defect types
+- Curated 9,000+ images + used Stable Diffusion for synthetic data augmentation
+- Achieved 86.6% accuracy on edge-deployed INT8 model
+- More details in my [docs folder](https://github.com/Codiosityy/Forsaken-Apex/tree/main/docs)
 
-**Tech:** Python, TensorFlow, Computer Vision
+**Stack:** Python, TensorFlow, Computer Vision, Edge AI
 
 ---
 
 ### [DualZen](https://github.com/Codiosityy/DualZen)
-> Sync tabs, workspaces, pinned tabs between **Zen Browser** instances
+> Built this because I needed my Zen Browser tabs to follow me between my Windows and Linux setups
 
-- ☁️ Google Drive for cloud storage
-- 🖱️ Browser extension + Python native messaging host
-- 💻 Cross-OS / dual-boot support
+- Python native messaging host + browser extension
+- Syncs workspaces, pinned tabs, and tab groups via Google Drive
+- Works across dual-boot machines — no cloud required beyond Drive
 
-**Tech:** Python, JavaScript, Browser Extensions, Google Drive API
+**Stack:** Python, JavaScript, Browser Extensions, Google Drive API
+
+---
+
+### [Local AI Assistants](https://github.com/topics/ollama)
+> Running LLMs locally because privacy matters
+
+- Built offline AI assistants using llama.cpp, Ollama, LM Studio
+- Implemented tool-calling pipelines for actual task automation
+- No API calls, no data leaving my machine
+
+**Stack:** Ollama, llama.cpp, Python, Agentic AI
 
 ---
 
@@ -124,9 +156,17 @@
 
 ---
 
+## 🎯 Currently Working On
+
+- Building more edge AI deployments
+- Experimenting with local LLM workflows
+- Setting up a proper home lab
+
+---
+
 ## 📍 Location
 
-📍 **India**
+📍 **India** · 🕤 UTC+5:30
 
 ---
 
@@ -146,6 +186,6 @@
 
 ---
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+> "Ship real things. Win hackathons. Break things, then fix them." — Me 😄
 
 ⭐ Feel free to explore my repos!
