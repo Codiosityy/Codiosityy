@@ -21,67 +21,22 @@
 
 ## 🛠️ Skills & Tech Stack
 
-### Programming Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-</div>
+<div align="left">
 
-### AI / Machine Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-DD0031?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-  <img src="https://img.shields.io/badge/Computer_Vision-4B0082?style=for-the-badge" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/Transfer_Learning-6A4C93?style=for-the-badge" alt="Transfer Learning">
-  <img src="https://img.shields.io/badge/Edge_AI-00A98F?style=for-the-badge" alt="Edge AI">
-</div>
+**Languages:** Python · C · C++ · Java · TypeScript · JavaScript
 
-### Agentic & Generative AI
-<div align="center">
-  <img src="https://img.shields.io/badge/LLM_Agents-10B981?style=for-the-badge" alt="LLM Agents">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Stable_Diffusion-FF6F00?style=for-the-badge" alt="Stable Diffusion">
-  <img src="https://img.shields.io/badge/Ollama-446B9C?style=for-the-badge" alt="Ollama">
-</div>
+**AI / ML:** TensorFlow · Keras · Computer Vision · Transfer Learning · Edge AI
 
-### Tools & Infrastructure
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Google_Colab-00A98F?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-</div>
+**Agentic AI:** LLM Agents · Prompt Engineering · Stable Diffusion · Ollama
 
-### Web & UI
-<div align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-</div>
+**Tools:** Docker · Git · Google Colab · Kaggle · VS Code · Linux
 
-### Systems & Self-Hosting
-<div align="center">
-  <img src="https://img.shields.io/badge/Self_Hosting-2B2D42?style=for-the-badge" alt="Self-Hosting">
-  <img src="https://img.shields.io/badge/DDNS-FF6B6B?style=for-the-badge" alt="DDNS">
-  <img src="https://img.shields.io/badge/Reverse_Proxy-00A98F?style=for-the-badge" alt="Reverse Proxy">
-  <img src="https://img.shields.io/badge/Nextcloud-0462D1?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud">
-</div>
+**Web:** Tailwind CSS · HTML · CSS · Node.js
 
-### Data & Config
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" alt="XML">
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
-  <img src="https://img.shields.io/badge/Markdown-083FA1?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <img src="https://img.shields.io/badge/TOML-9C4121?style=for-the-badge" alt="TOML">
+**Systems:** Self-Hosting · DDNS · Reverse Proxy · Nextcloud
+
+**Data:** SQL · JSON · XML · YAML · Markdown · TOML
+
 </div>
 
 ---
