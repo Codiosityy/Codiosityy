@@ -22,7 +22,7 @@
 
 ## 🛠️ Skills & Tech Stack
 
-<div align="left">
+<div align="center">
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
@@ -71,6 +71,8 @@
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0462D1?style=flat-square&logo=nextcloud&logoColor=white)]()
 
 </div>
+
+---
 
 ---
 
