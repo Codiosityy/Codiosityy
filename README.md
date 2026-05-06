@@ -1,11 +1,6 @@
 # 👋 Hey, I'm Prakash Singh
 
-**Hackathon-winning developer building real AI systems** ⚡
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=Codiosityy&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/Codiosityy?style=flat-square&color=8b5cf6" alt="Followers">
-</div>
+**Hackathon-winning developer building real AI systems** ⚡ <img src="https://komarev.com/ghpvc/?username=Codiosityy&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views"> <img src="https://img.shields.io/github/followers/Codiosityy?style=flat-square&color=8b5cf6" alt="Followers">
 
 ---
 
