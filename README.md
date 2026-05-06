@@ -104,27 +104,35 @@ Cross-platform browser workspace synchronization system using Python native mess
 
 ---
 
-### Local LLM Infrastructure
-
-Offline AI assistant pipeline using llama.cpp and Ollama with tool-calling workflows for task automation. Built local execution environment with GPU acceleration and privacy-first architecture — no API calls leave the machine.
-
-**Stack:** llama.cpp, Ollama, LangChain, Python, Local AI
-
----
-
-### Self-Hosted Infrastructure
-
-Personal cloud and media infrastructure using Nextcloud deployed via Docker with remote access configured through DDNS and port forwarding. Includes media server, notes synchronization, and cross-device file sync.
-
-**Stack:** Docker, Nextcloud, Linux, DDNS, Reverse Proxy, Self-Hosting
-
----
-
 ### [VisualizeSim](https://github.com/Codiosityy/VisualizeSim) — *1st Place Hackathon Winner*
 
 Simulation visualization system for interpreting complex datasets. Designed interactive UI for extracting meaningful insights from simulation outputs. Won 1st place at Mirabilis Design VisualSim Hackathon.
 
 **Stack:** Python, Data Visualization, UI/UX
+
+---
+
+### [openenv-vendor-compliance](https://github.com/Codiosityy/openenv-vendor-compliance)
+
+OpenEnv environment for deterministic vendor onboarding and compliance review workflow. Built with 3 graded tasks for compliance verification and Docker-based deployment for reproducibility.
+
+**Stack:** Python, Dockerfile, Compliance Workflow
+
+---
+
+### [QuarryFlow-Crossing](https://github.com/Codiosityy/QuarryFlow-Crossing)
+
+Logic-driven system solving structured crossing problems under constraints. Built for hackathon environment with focus on algorithmic correctness and efficiency.
+
+**Stack:** Python, Algorithm Design
+
+---
+
+### [portfolio-site](https://github.com/Codiosityy/portfolio-site)
+
+Personal portfolio website with modern, responsive design. Fast and interactive UI for showcasing projects and skills.
+
+**Stack:** TypeScript, JavaScript, CSS
 
 ---
 
