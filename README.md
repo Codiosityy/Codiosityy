@@ -128,14 +128,6 @@ Logic-driven system solving structured crossing problems under constraints. Buil
 
 ---
 
-### [portfolio-site](https://github.com/Codiosityy/portfolio-site)
-
-Personal portfolio website with modern, responsive design. Fast and interactive UI for showcasing projects and skills.
-
-**Stack:** TypeScript, JavaScript, CSS
-
----
-
 ## 🎯 Currently Working On
 
 - Home lab infrastructure expansion
