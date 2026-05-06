@@ -1,12 +1,12 @@
+# 👋 Hey, I'm Prakash Singh
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<h1 style="margin: 0;">👋 Hey, I'm Prakash Singh</h1>
+<span>**Hackathon-winning developer building real AI systems** ⚡</span>
 <span>
 <img src="https://komarev.com/ghpvc/?username=Codiosityy&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views">
 <img src="https://img.shields.io/github/followers/Codiosityy?style=flat-square&color=8b5cf6" alt="Followers">
 </span>
 </div>
-
-**Hackathon-winning developer building real AI systems** ⚡
 
 ---
 
